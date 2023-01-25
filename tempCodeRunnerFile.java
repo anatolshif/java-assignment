@@ -1,0 +1,1 @@
+JOptionPane.showConfirmDialog(null, "Name " + getName()+"\n\n\n\n\n\n"+"Address				" + getAddress());
